@@ -1,0 +1,3 @@
+// js object template
+
+
